@@ -40,7 +40,8 @@ The code will release soon.
 </p>
 
 
-##UI Demo
-<p align='center'>
-<video src="assets/UI.mp4" controls></video>
+## UI Demo
+<p align="center">
+  <img src="assets/UI.gif" height>
+</p>
 
