@@ -5,7 +5,7 @@
 
 
 
-[arXiv Link]()
+[arXiv Link](https://arxiv.org/abs/2312.02216)
 
 ---
 
@@ -19,7 +19,7 @@ DragonVideo</span> enables drag-style editingfor the videos while preserve the t
 
 ## Updates
 
-- [2023/12/5] Paper is available [here]().
+- [2023/12/5] Paper is available [here](https://arxiv.org/abs/2312.02216).
 
 ---
 
